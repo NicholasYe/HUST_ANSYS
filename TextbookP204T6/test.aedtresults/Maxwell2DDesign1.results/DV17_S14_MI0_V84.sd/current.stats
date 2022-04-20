@@ -1,0 +1,3 @@
+           | Num Elements | Min edge length | Max edge length | RMS edge length |   Min elem area |   Max elem area |  Mean elem area | Std Devn (area)
+         6 |           84 |       0.0949011 |        0.328077 |        0.169399 |      0.00403916 |       0.0230512 |       0.0119048 |      0.00467837
+        16 |           84 |       0.0949011 |        0.328077 |        0.169399 |      0.00403916 |       0.0230512 |       0.0119048 |      0.00467837
